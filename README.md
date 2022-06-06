@@ -1,4 +1,4 @@
-<img src="https://github.com/Sephens/Sephens/blob/master/Digital__Design_110-512.png" width="100"/>
+<img src="https://github.com/Sephens/Sephens/blob/main/Digital__Design_110-512.png" width="100"/>
 
 Hello 👋 I'm Steven Odhiambo, Jnr. Software Developer.
 
