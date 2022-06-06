@@ -1,4 +1,4 @@
-<img src="https://github.com/Sephens/Sephens/blob/main/code.png" width="100"/>
+<img src="https://github.com/Sephens/Sephens/blob/main/code-removebg-preview.png" width="100"/>
 
 <h3 style="color: blue;">Hello 👋 I'm Steven Odhiambo. Jnr. Software Developer.</h3>
 
