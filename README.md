@@ -1,6 +1,6 @@
 <img src="https://github.com/Sephens/Sephens/blob/main/Digital__Design_110-512.png" width="100"/>
 
-<h3 style="color: green;">Hello 👋 I'm Steven Odhiambo. Jnr. Software Developer.</h3>
+<h3 style="color: blue;">Hello 👋 I'm Steven Odhiambo. Jnr. Software Developer.</h3>
 
 <br>
 
