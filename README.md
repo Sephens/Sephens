@@ -1,6 +1,6 @@
 <img src="https://github.com/Sephens/Sephens/blob/main/Digital__Design_110-512.png" width="100"/>
 
-Hello 👋 I'm Steven Odhiambo, Jnr. Software Developer.
+<h3>Hello 👋 I'm Steven Odhiambo. Jnr. Software Developer.</h3>
 
 <br>
 
