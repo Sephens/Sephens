@@ -4,7 +4,7 @@
 <h1>Happy 2024🥳</h1>
 <hr style="color: red">
 <hr>
-<h3>I'm Steven Odhiambo. Jnr. Software Developer.</h3>
+<h3>I'm Steven Odhiambo. Software Developer.</h3>
 
 <br>
 
