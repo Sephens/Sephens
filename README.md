@@ -1,7 +1,7 @@
 <img src="https://github.com/Sephens/Sephens/blob/main/code-removebg-preview.png" width="100"/>
 
 <h1>Hello 👋 </h1>
-<h1>Kaizen</h1>
+<h1>Read Learn Code and Re-learn!!</h1>
 <hr style="color: red">
 <hr>
 <h3>I'm Steven Odhiambo. Software Developer.</h3>
